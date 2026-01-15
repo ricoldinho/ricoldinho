@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/800x200.png?text=Profesor+de+Informática" alt="Banner Profesor" width="100%" />
-
   <h1>👨‍🏫 ¡Hola! Soy Rico</h1>
   <h3>Profesor de Informática & Desarrollo de Software</h3>
   
