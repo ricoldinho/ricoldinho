@@ -25,7 +25,7 @@
 A continuación encontraréis los enlaces a los repositorios con el código visto en clase y las plantillas de ejercicios.
 
 | Asignatura | Curso | Tecnologías Principales | 
-| :--- | :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | **Programación I** | 1º DAW | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  |
 | **Desarrollo Web** | 2º DAW | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  |
 | **Desarrollo Interfaces**| 2º DAM | ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)  |
